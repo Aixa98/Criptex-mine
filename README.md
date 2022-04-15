@@ -6,9 +6,6 @@ _Encriptador de texto con JavaScript_
 
 _Inserta este Mensaje Secreto!:"fenterlimescimesdaidenters poberr enternfrenterntair enterstenter dentersaifimesober y haibenterrlober cobernclufatimesdober cobern enterximestober!"._
 
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 ### Pre-requisitos 📋
 
 _Las "llaves" de encriptación que utilizamos son las siguientes:_
